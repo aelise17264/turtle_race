@@ -1,5 +1,5 @@
-# turtle_race
+# Turtle Race! 🏁
 
-## 6 Turtles race across your screen
+## 6 Turtles race across your screen 🐢
 
-## Created in PyCharm
+Created in PyCharm
